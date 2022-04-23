@@ -1,9 +1,10 @@
 LAPORAN PRAKTIKUM
 MEMBUAT CSS FRAMEWORK DENGAN TWITTER BOOTSTRAP
 PEMROGRAMAN WEB
-Nama		: Rafi Hanif R.
-NIM		: 312010358
-Kelas		: TI.20.A.2
+
+Nama	      	: Rafi Hanif R.
+NIM		       : 312010358
+Kelas		     : TI.20.A.2
 Mata Kuliah	: Pemrograman Web
 
 
